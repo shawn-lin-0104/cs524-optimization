@@ -45,13 +45,12 @@ julia --project=. project/project.ipynb
 
 ---
 
-## Homework Highlights
+## Additional Notebooks
 
-| Assignment | Topic |
+| File | Topic |
 |---|---|
-| HW2 | LP formulation and solving with JuMP |
-| HW4 | Network flow and transportation problems |
-| HW6 | Integer programming |
+| `linear-programming.ipynb` | LP formulation and solving with JuMP |
+| `network-flow.ipynb` | Network flow and transportation problems |
 
 ---
 
